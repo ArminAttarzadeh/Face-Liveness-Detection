@@ -1,4 +1,4 @@
-# Face-Liveness-Detection
+# Face-Liveness-Detection-Keras
 Face Liveness Detection using Deep Learning CNN Models (Keras)
 
 This project focuses on **liveness detection** to differentiate between real and spoof (fake) faces using deep learning techniques. The main goal is to classify faces as either real or fake by analyzing both video and image datasets.
